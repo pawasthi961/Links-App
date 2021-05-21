@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865141782653",
+    "project_id": "links-app-b5f6c",
+    "storage_bucket": "links-app-b5f6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865141782653:android:a916bbb660748b5c501914",
+        "android_client_info": {
+          "package_name": "com.prakharawasthi961.links_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865141782653-gi8tiltmlhq3nvf299ooeaq2s5g6vg0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI8LoGGlSgjgcJEl8TX6ApIs38ZioMz-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865141782653-gi8tiltmlhq3nvf299ooeaq2s5g6vg0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
